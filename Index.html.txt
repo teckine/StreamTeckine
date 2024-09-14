@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>StreamTecKine - Official Music</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Welcome to StreamTecKine</h1>
+            <button class="listen-btn">Click to Listen</button>
+        </div>
+    </header>
+
+    <!-- Music Links Section -->
+    <section class="music-links">
+        <h2>Listen to My Music</h2>
+        <ul>
+            <li><a href="https://audiomack.com/Teckine" target="_blank">Audiomack</a></li>
+            <li><a href="https://open.spotify.com/artist/3wG7ACDPkyZPMXvYXjfylF?si=PnO9m4poQlmh8NdYrBlSLQ" target="_blank">Spotify</a></li>
+            <li><a href="https://youtube.com/@teckinesv?si=Ba5tDd7fAmlIb1oa" target="_blank">YouTube</a></li>
+            <li><a href="https://music.apple.com/lr/artist/teckine/1561285072" target="_blank">Apple Music</a></li>
+        </ul>
+    </section>
+
+    <!-- Biography Section -->
+    <section class="bio">
+        <h2>About TecKine</h2>
+        <p>TecKine is a singer and songwriter specializing in Afrobeats. The Liberian artist, Felton Flomo Jr., was born in Gbarnga city, Bong County, on November 2, 2002, to parents Larry Flomo and Benita Nukolo...</p>
+        <p>His inspiration is drawn from music he listens to while mostly alone. His goal is to make his music and the name of Liberia go global.</p>
+    </section>
+
+    <!-- Music Video Section -->
+    <section class="music-videos">
+        <h2>Watch My Music Videos</h2>
+        <div class="video-gallery">
+            <a href="https://youtu.be/UgbLdrIe1TU?si=ET7Uu6pShYprUdru" target="_blank">
+                <img src="thumbnail1.jpg" alt="Video 1 Thumbnail">
+            </a>
+            <a href="https://youtu.be/Yx58f1MjFeA?si=OVfwgqiwbLA5GTuc" target="_blank">
+                <img src="thumbnail2.jpg" alt="Video 2 Thumbnail">
+            </a>
+            <a href="https://youtu.be/kyrsv8usAvM?si=EoGe3cIPHKaK-ZNs" target="_blank">
+                <img src="thumbnail3.jpg" alt="Video 3 Thumbnail">
+            </a>
+            <a href="https://youtu.be/Z135aAlL3E8?si=RLzciqiB3JWFuQEv" target="_blank">
+                <img src="thumbnail4.jpg" alt="Video 4 Thumbnail">
+            </a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+        <h2>Contact TecKine</h2>
+        <p>WhatsApp: <a href="https://wa.me/231888382269" target="_blank">+231888382269</a></p>
+        <p>Email: <a href="mailto:Officialteckine@gmail.com">Officialteckine@gmail.com</a></p>
+    </section>
+
+</body>
+</html>
